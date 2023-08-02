@@ -1,0 +1,14 @@
+{
+  "name": "wault-backend",
+  "version": "1.0.0",
+  "description": "The backend service of Wault (What Are U Listening To?)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JackMichael Ward",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
